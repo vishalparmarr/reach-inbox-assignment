@@ -1,19 +1,18 @@
-## Reachinbox
+# Reachinbox Assignment :-
 
-## Deployed Link :
-https://reachinbox-seven.vercel.app/
+## Deployed Link :-
+https://reach-inbox-assignment-ten.vercel.app/
 
-## Tech Stack used:
+## Tech Stack used :-
 * React.js
 * Redux.js
 * Tailwind.css
 
-## features :
+## Features :-
 * User can login using google account
 * Switch theme light or dark
 * Add variables in reply
 * CRUD Operation on thread
-* Dynamically display thread data along with sending time and date
 
 ## ScreenShot :
 * Login Page :
@@ -41,13 +40,19 @@ https://reachinbox-seven.vercel.app/
 ![reachinbox-lightmode](https://github.com/GaneshGourav/reachinbox-frontend-assignment/assets/119353884/8ca2741a-3022-414d-99ff-3f4251f24e34)
 
 
-## Project Setup
+## Project Setup :-
 
-* git clone https://github.com/GaneshGourav/reachinbox-frontend-assignment.git
-* npm i
-* npm start
+Clone the repository :-
+```sh
+git clone https://github.com/vishalparmarr/reach-inbox-assignment.git
+```
+Install Dependencies :-
 
-## Feedback :
-Any feedback regarding improvement are welcome!
+```sh
+npm install
+```
 
-### Thank you !
+Run server :-
+```sh
+npm start
+```
